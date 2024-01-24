@@ -1,0 +1,25 @@
+
+.input-box{
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    display: flex;
+    
+    gap: 2rem;
+    justify-content: left;
+}
+
+.inputs{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn {
+    height: 100%;
+}
+
+.demo{
+    padding: 1.5rem;
+}
